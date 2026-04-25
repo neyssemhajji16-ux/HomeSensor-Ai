@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "78473985591",
+    "firebase_url": "https://homesense-ai-default-rtdb.firebaseio.com",
+    "project_id": "homesense-ai",
+    "storage_bucket": "homesense-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78473985591:android:085b6d454413258e6b09b2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAceI6b6_ZylNO6jWUTE2AT_ecnQkYUVnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
